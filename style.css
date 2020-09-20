@@ -1130,7 +1130,6 @@ input::placeholder {
   border: none;
   color: var(--main-color);
   font-family: Roboto;
-  font-style: normal;
   font-weight: bold;
   font-size: 16px;
   line-height: 1.9;
