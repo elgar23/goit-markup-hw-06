@@ -1097,14 +1097,14 @@ input::placeholder {
 
 .check-box {
   position: absolute;
-  background-image: url(../modal/Vector.svg);
+  background-image: url(./modal/Vector.svg);
   width: 16px;
   height: 15px;
   left: 30px;
 }
 
 .modal-form-input-checkbox:checked + .check-box {
-  background-image: url(../modal/check.svg);
+  background-image: url(./modal/check.svg);
   fill: var(--main-color);
   background-color: var(--accent-color);
 
